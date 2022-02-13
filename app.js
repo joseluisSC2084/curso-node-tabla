@@ -86,3 +86,14 @@ crearArchivo(argv.b, argv.l, argv.h)
 
 
 //node app --help
+//npm install
+
+//Para subir a un repositorio
+//git init
+//git add .
+//git commit -m "Primer commit"
+
+//git checkout -- .
+
+
+//SUBIENDO EN ARCHIVO README.md
