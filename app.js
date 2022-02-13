@@ -97,3 +97,7 @@ crearArchivo(argv.b, argv.l, argv.h)
 
 
 //SUBIENDO EN ARCHIVO README.md
+
+//git add .
+//git commit -m "Readme agregado"
+//git push
